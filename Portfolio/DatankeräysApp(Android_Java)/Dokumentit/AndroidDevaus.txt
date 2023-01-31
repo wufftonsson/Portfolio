@@ -1,0 +1,17 @@
+Sensors overview - https://developer.android.com/guide/topics/sensors/sensors_overview
+
+Health  Services - https://developer.android.com/training/wearables/health-services
+
+How to create WearOs app - https://www.youtube.com/watch?v=-JO5oHRkYbk
+
+Android BGservices- https://developer.android.com/guide/components/services
+
+Android Package and distribute -https://developer.android.com/training/wearables/packaging
+
+How to create background service - https://www.youtube.com/watch?v=XCvbzVmwnwo
+
+Android Wear activity that reads and displays sensor data from the device  https://gist.github.com/mjohnsullivan/557c2f19ba177312b1d7
+
+Google Fit: https://developers.google.com/fit/scenarios/write-sleep-data ja  https://developers.google.com/fit/android
+
+
