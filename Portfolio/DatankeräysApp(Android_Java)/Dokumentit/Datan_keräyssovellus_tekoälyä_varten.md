@@ -3,7 +3,7 @@ Wear OS App
 ===
 ##  Polar projekti syksy 2022
 #### Projektiopinnot 4
-Christian Antonsson & Jere Kemppainen TTV19SA 
+
 
 ## Huomioita
 
