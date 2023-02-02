@@ -1,10 +1,6 @@
 /************************************************* 
  * EscapeRoombox / Teknologiapaja 2
  * Arduino mega atmega2560
- * Tekijät: Christian Antonsson ja Maiju Lehtonen
- * Aloituspvm: 27.01.2021
- * Valmis: 
- * Ryhmätunnus: TTV19SA
  ************************************************** 
 */
 
